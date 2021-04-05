@@ -1,4 +1,4 @@
-### Hello and welcome!! 烙
+### Hello and welcome!! 😊 💻 🤖
 
 <!--
 **Patrickkoda13/Patrickkoda13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
